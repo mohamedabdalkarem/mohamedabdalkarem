@@ -1,18 +1,39 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,60:0c1e3e,100:1e3a8a&height=130&section=header&text=Mohamed%20Abdelkareem&fontSize=34&fontColor=60a5fa&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20Entrepreneur&descSize=13&descAlignY=80&descColor=334155" />
 <div align="center">
+
+<a href="https://github.com/mohamedabdalkarem">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060810,50:0c1e3e,100:060810&height=4" />
+</a>
+
+<!--  HERO  -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=60A5FA&center=true&vCenter=true&width=700&lines=Mohamed+Abdelkareem" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=60A5FA&center=true&vCenter=true&width=700&lines=Mohamed+Abdelkareem" alt="Mohamed Abdelkareem" />
+</picture>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=99999&color=94A3B8&center=true&vCenter=true&width=400&lines=Data+Engineer+%C2%B7+Entrepreneur" alt="Data Engineer · Entrepreneur" />
+
+&nbsp;
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1400&color=3B82F6&center=true&vCenter=true&width=520&lines=%3E+engineering+data+pipelines_;&gt;+architecting+data+systems_;&gt;+turning+bytes+into+decisions_;&gt;+bridging+data+%26+business_" alt="Typing SVG" />
 
 &nbsp;
 
-[![Data Engineering](https://img.shields.io/badge/Data_Engineering-0c1e3e?style=flat-square&logoColor=60a5fa)](.)
-[![Modeling](https://img.shields.io/badge/Modeling-052010?style=flat-square&logoColor=60a5fa)](.)
-[![Big Data](https://img.shields.io/badge/Big_Data-1a1000?style=flat-square&logoColor=60a5fa)](.)
+![Data Engineering](https://img.shields.io/badge/Data__Engineering-0c1e3e?style=flat-square&logoColor=60a5fa)
+![Modeling](https://img.shields.io/badge/Modeling-052010?style=flat-square&logoColor=60a5fa)
+![Big Data](https://img.shields.io/badge/Big__Data-1a1000?style=flat-square&logoColor=60a5fa)
+![Entrepreneur](https://img.shields.io/badge/Entrepreneur-0c1020?style=flat-square&logoColor=a78bfa)
+
+&nbsp;
+
+| Role | Specialty |
+|:---:|:---:|
+| **Data Engineer** | **Big Data · ETL · Warehousing** |
+
 </div>
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 | Category | Tools |
 |---|---|
@@ -25,7 +46,7 @@
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
@@ -36,7 +57,7 @@
 
 ---
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
