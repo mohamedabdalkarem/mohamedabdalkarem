@@ -93,8 +93,10 @@
     <text x="56" y="39" font-family="'JetBrains Mono', 'Courier New', monospace" font-size="12" fill="#94a3b8" fill-opacity="0.5" letter-spacing="0.5">Abkrem</text>
 
     <!-- Name -->
-    <text x="44" y="115" font-family="'Arial Black', 'Impact', sans-serif" font-size="60" font-weight="900" fill="url(#nameGrad)" letter-spacing="-1">I'm Mohamed Abdelkareem</text>
-
+<text x="44" y="115" font-family="'Arial Black', 'Impact', sans-serif" font-size="60" font-weight="900" fill="url(#nameGrad)" letter-spacing="-1">
+  <tspan x="44" dy="0">I'm Mohamed</tspan>
+  <tspan x="44" dy="70">Abdalkareem</tspan>
+</text>
     <!-- Terminal line -->
     <text x="44"  y="190" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#3b82f6" fill-opacity="0.8">&gt;</text>
     <text x="66"  y="190" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#34d399" letter-spacing="0.5">engineering data pipelines_</text>
