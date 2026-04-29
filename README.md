@@ -46,7 +46,7 @@
 <div align="center">
 
 ```
-         // always building  ·  always learning  ·  always shipping
+                                 // always building  ·  always learning  ·  always shipping
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mohamedabdalkarem&color=3b82f6&style=flat-square&label=profile+views)
