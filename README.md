@@ -41,6 +41,10 @@
 
 </div>
 
+---
+
+<div align="center">
+
 ```
 // always building  ·  always learning  ·  always shipping
 ```
