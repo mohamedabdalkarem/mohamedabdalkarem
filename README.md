@@ -15,15 +15,6 @@
 
 ---
 
-## `// about`
-
-```
-location  →  Egypt 🇪🇬
-focus     →  Data Engineering · Architecture · Entrepreneurship
-```
-
-> *"I don't just move data — I architect systems that turn it into decisions driving businesses forward."*
-
 ---
 
 ## `// stack`
