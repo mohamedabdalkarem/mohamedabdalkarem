@@ -5,12 +5,7 @@
 </a>
 
 <!--  HERO  -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=60A5FA&center=true&vCenter=true&width=700&lines=Mohamed+Abdelkareem" />
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=42&pause=99999&color=60A5FA&center=true&vCenter=true&width=700&lines=Mohamed+Abdelkareem" alt="Mohamed Abdelkareem" />
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&pause=99999&color=94A3B8&center=true&vCenter=true&width=400&lines=Data+Engineer+%C2%B7+Entrepreneur" alt="Data Engineer · Entrepreneur" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:060810,50:0c1e3e,100:060810&height=110&text=Mohamed%20Abdelkareem&fontSize=42&fontColor=60a5fa&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20Entrepreneur&descSize=13&descAlignY=80&descColor=94a3b8" />
 
 &nbsp;
 
