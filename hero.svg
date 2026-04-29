@@ -97,9 +97,6 @@
   <tspan x="44" dy="0">I'm </tspan>
   <tspan x="44" dy="70">Mohamed Abdalkareem</tspan>
 </text>
-    <!-- Terminal line -->
-    <text x="44"  y="190" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#3b82f6" fill-opacity="0.8">&gt;</text>
-    <text x="66"  y="190" font-family="'Courier New', monospace" font-size="15" font-weight="700" fill="#34d399" letter-spacing="0.5">engineering data pipelines_</text>
 
     <!-- Tags row -->
     <!-- DATA ENGINEERING -->
