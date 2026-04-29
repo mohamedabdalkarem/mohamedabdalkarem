@@ -10,20 +10,6 @@
 [![Big Data](https://img.shields.io/badge/Big_Data-1a1000?style=flat-square&logoColor=60a5fa)](.)
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-- 📍 **Location** &nbsp;&nbsp;&nbsp; Egypt 🇪🇬
-- 🎓 **Education** &nbsp; Bachelor of Information Systems (BIS)
-- 💼 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Work ✅
-
-<br/>
-
-> *"I don't just move data — I architect systems that turn it into decisions driving businesses forward."*
-
----
-
 🛠️ Tech Stack
 
 | Category | Tools |
