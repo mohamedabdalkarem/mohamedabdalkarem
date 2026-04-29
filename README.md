@@ -7,7 +7,6 @@
 &nbsp;
 
 [![Data Engineer](https://img.shields.io/badge/Data_Engineer-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
-[![Data Architect](https://img.shields.io/badge/Data_Architect-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
 [![Builder](https://img.shields.io/badge/Builder-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
 [![Entrepreneur](https://img.shields.io/badge/Entrepreneur-%23060810?style=flat-square&labelColor=1a1000&color=1a1000)](.)
 
@@ -15,12 +14,11 @@
 
 ---
 
-## `// about`
+🧑‍💻 About Me
 
 ```
 location  →  Egypt 🇪🇬
-status    →  Open to opportunities ✅
-focus     →  Data Engineering · Data Architecture · Entrepreneurship
+status    →  Open to work ✅
 ```
 
 > *"I don't just move data — I architect systems that turn it into decisions driving businesses forward."*
@@ -31,7 +29,7 @@ focus     →  Data Engineering · Data Architecture · Entrepreneurship
 
 | Category | Tools |
 |---|---|
-| 💻 Programming Languages| ![Python](https://img.shields.io/badge/Python-%23060810?style=flat-square&logo=python&logoColor=3572a5) ![SQL](https://img.shields.io/badge/SQL-%23060810?style=flat-square&logo=postgresql&logoColor=e38c28) ![Bash](https://img.shields.io/badge/Bash-%23060810?style=flat-square&logo=gnubash&logoColor=64748b) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-%23060810?style=flat-square&logo=python&logoColor=3572a5) ![SQL](https://img.shields.io/badge/SQL-%23060810?style=flat-square&logo=postgresql&logoColor=e38c28) ![Bash](https://img.shields.io/badge/Bash-%23060810?style=flat-square&logo=gnubash&logoColor=64748b) |
 | **Big Data** | ![Spark](https://img.shields.io/badge/Apache_Spark-%23060810?style=flat-square&logo=apachespark&logoColor=e25a1c) ![Hadoop](https://img.shields.io/badge/Hadoop-%23060810?style=flat-square&logo=apachehadoop&logoColor=fbbf24) ![Hive](https://img.shields.io/badge/Hive-%23060810?style=flat-square&logo=apachehive&logoColor=34d399) ![Kafka](https://img.shields.io/badge/Kafka-%23060810?style=flat-square&logo=apachekafka&logoColor=94a3b8) |
 | **DevOps** | ![Docker](https://img.shields.io/badge/Docker-%23060810?style=flat-square&logo=docker&logoColor=60a5fa) ![Git](https://img.shields.io/badge/Git-%23060810?style=flat-square&logo=git&logoColor=f87171) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23060810?style=flat-square&logo=githubactions&logoColor=64748b) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23060810?style=flat-square&logo=kubernetes&logoColor=22d3ee) |
 | **Engineering** | ![ETL](https://img.shields.io/badge/ETL%2FELT-%23060810?style=flat-square&logoColor=a78bfa) ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-%23060810?style=flat-square&logoColor=a78bfa) ![Airflow](https://img.shields.io/badge/Airflow-%23060810?style=flat-square&logo=apacheairflow&logoColor=34d399) ![dbt](https://img.shields.io/badge/dbt-%23060810?style=flat-square&logo=dbt&logoColor=34d399) |
