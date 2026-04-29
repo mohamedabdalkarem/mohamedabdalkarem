@@ -10,6 +10,8 @@
 [![Big Data](https://img.shields.io/badge/Big_Data-1a1000?style=flat-square&logoColor=60a5fa)](.)
 </div>
 
+---
+
 🛠️ Tech Stack
 
 | Category | Tools |
