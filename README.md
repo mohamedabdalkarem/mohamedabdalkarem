@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,60:0c1e3e,100:1e3a8a&height=130&section=header&text=Mohamed%20Abdelkareem&fontSize=34&fontColor=60a5fa&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20Big%20Data%20%C2%B7%20Entrepreneur&descSize=13&descAlignY=80&descColor=334155" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,60:0c1e3e,100:1e3a8a&height=130&section=header&text=Mohamed%20Abdelkareem&fontSize=34&fontColor=60a5fa&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20Entrepreneur&descSize=13&descAlignY=80&descColor=334155" />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1400&color=3B82F6&center=true&vCenter=true&width=520&lines=%3E+engineering+data+pipelines_;&gt;+architecting+data+systems_;&gt;+turning+bytes+into+decisions_;&gt;+bridging+data+%26+business_" alt="Typing SVG" />
 
 &nbsp;
 
-[![Data Engineer](https://img.shields.io/badge/Data_Engineer-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
-[![Builder](https://img.shields.io/badge/Builder-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
-
+[![Data Engineering](https://img.shields.io/badge/Data_Engineer-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
+[![modeling](https://img.shields.io/badge/Builder-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
+[![Big Data](https://img.shields.io/badge/Entrepreneur-%23060810?style=flat-square&labelColor=1a1000&color=1a1000)](.)
 </div>
 
 ---
@@ -17,6 +17,7 @@
 ```
 location  →  Egypt 🇪🇬
 status    →  Open to work ✅
+education  → Bis
 ```
 
 > *"I don't just move data — I architect systems that turn it into decisions driving businesses forward."*
