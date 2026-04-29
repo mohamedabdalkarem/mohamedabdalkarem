@@ -5,9 +5,9 @@
 
 &nbsp;
 
-[![Data Engineering](https://img.shields.io/badge/Data_Engineer-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
-[![modeling](https://img.shields.io/badge/Builder-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
-[![Big Data](https://img.shields.io/badge/Entrepreneur-%23060810?style=flat-square&labelColor=1a1000&color=1a1000)](.)
+[![Data Engineering](https://img.shields.io/badge/Data Engineering-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
+[![modeling](https://img.shields.io/badge/modeling-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
+[![Big Data](https://img.shields.io/badge/Big Data-%23060810?style=flat-square&labelColor=1a1000&color=1a1000)](.)
 </div>
 
 ---
