@@ -4,11 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1400&color=3B82F6&center=true&vCenter=true&width=520&lines=%3E+engineering+data+pipelines_;&gt;+architecting+data+systems_;&gt;+turning+bytes+into+decisions_;&gt;+bridging+data+%26+business_" alt="Typing SVG" />
 
 &nbsp;
-
-[![Data Engineering](https://img.shields.io/badge/Data Engineering-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
-[![modeling](https://img.shields.io/badge/modeling-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
-[![Big Data](https://img.shields.io/badge/Big Data-%23060810?style=flat-square&labelColor=1a1000&color=1a1000)](.)
-</div>
+![](https://img.shields.io/badge/📊_Data_Engineering-0c1e3e?style=for-the-badge)
+![](https://img.shields.io/badge/🗂️_Modeling-052010?style=for-the-badge)
+![](https://img.shields.io/badge/🐘_Big_Data-1a1000?style=for-the-badge)
 
 ---
 
