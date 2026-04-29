@@ -1,5 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,60:0c1e3e,100:1e3a8a&height=130&section=header&text=Mohamed%20Abdelkareem&fontSize=34&fontColor=60a5fa&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20%C2%B7%20Entrepreneur&descSize=13&descAlignY=80&descColor=334155" />
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:060810,60:0c1e3e,100:1e3a8a&height=130&section=header&text=Mohamed%20Abdelkareem&fontSize=34&fontColor=60a5fa&fontAlignY=55&desc=Data%20Engineer%20%C2%B7%20Big%20Data%20%C2%B7%20Entrepreneur&descSize=13&descAlignY=80&descColor=334155" />
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1400&color=3B82F6&center=true&vCenter=true&width=520&lines=%3E+engineering+data+pipelines_;&gt;+architecting+data+systems_;&gt;+turning+bytes+into+decisions_;&gt;+bridging+data+%26+business_" alt="Typing SVG" />
