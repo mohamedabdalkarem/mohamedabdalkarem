@@ -30,20 +30,16 @@
 
 ---
 
-## 🤝 Connect With Me
+🤝 Connect With Me
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01012390457?style=for-the-badge&logo=whatsapp&logoColor=25d366&labelColor=052010)](https://wa.me/201012390457)
-[![X / Twitter](https://img.shields.io/badge/X-@Mohammed285239?style=for-the-badge&logo=x&logoColor=e7e7e7&labelColor=0a0a10)](https://x.com/Mohammed285239)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--abdalkareem?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0c1e3e)](https://www.linkedin.com/in/mohammed-abdalkareem-26297b236)
-[![Email](https://img.shields.io/badge/Email-mohamedabdalkareem976?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=1a0808)](mailto:mohamedabdalkareem976@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-01012390457-%23060810?style=for-the-badge&logo=whatsapp&logoColor=25d366&labelColor=052010)](https://wa.me/201012390457)
+[![X / Twitter](https://img.shields.io/badge/X-@Mohammed285239-%23060810?style=for-the-badge&logo=x&logoColor=e7e7e7&labelColor=0a0a10)](https://x.com/Mohammed285239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--abdalkareem-%23060810?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0c1e3e)](https://www.linkedin.com/in/mohammed-abdalkareem-26297b236)
+[![Email](https://img.shields.io/badge/Email-mohamedabdalkareem976-%23060810?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=1a0808)](mailto:mohamedabdalkareem976@gmail.com)
 
 </div>
-
----
-
-<div align="center">
 
 ```
 // always building  ·  always learning  ·  always shipping
