@@ -7,7 +7,7 @@
 &nbsp;
 
 [![Data Engineer](https://img.shields.io/badge/Data_Engineer-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
-[![Data Architect](https://img.shields.io/badge/Data_Architect-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
+[![Architect](https://img.shields.io/badge/Architect-%23060810?style=flat-square&labelColor=0c1e3e&color=0c1e3e)](.)
 [![Builder](https://img.shields.io/badge/Builder-%23060810?style=flat-square&labelColor=052010&color=052010)](.)
 [![Entrepreneur](https://img.shields.io/badge/Entrepreneur-%23060810?style=flat-square&labelColor=1a1000&color=1a1000)](.)
 
@@ -19,8 +19,7 @@
 
 ```
 location  →  Egypt 🇪🇬
-status    →  Open to opportunities ✅
-focus     →  Data Engineering · Data Architecture · Entrepreneurship
+focus     →  Data Engineering · Architecture · Entrepreneurship
 ```
 
 > *"I don't just move data — I architect systems that turn it into decisions driving businesses forward."*
