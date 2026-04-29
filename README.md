@@ -1,31 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:07090f,50:0c1a3a,100:07090f&height=3" />
-
-<!-- NAME -->
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=46&pause=99999&color=60A5FA&center=true&vCenter=true&width=700&height=60&lines=Mohamed+Abdelkareem" alt="Mohamed Abdelkareem" />
-
-<!-- SUBTITLE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&pause=99999&color=94A3B8&center=true&vCenter=true&width=400&height=24&lines=DATA+ENGINEER+%C2%B7+ENTREPRENEUR" alt="Data Engineer · Entrepreneur" />
-
-&nbsp;
-
-<!-- TERMINAL LINE -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=14&pause=1400&color=34D399&center=true&vCenter=true&width=520&lines=%3E+engineering+data+pipelines_;&gt;+architecting+data+systems_;&gt;+turning+bytes+into+decisions_;&gt;+bridging+data+%26+business_" alt="Typing SVG" />
-
-&nbsp;
-
-<!-- TAGS -->
-![Data Engineering](https://img.shields.io/badge/DATA_ENGINEERING-0a1628?style=flat-square&logoColor=93c5fd&color=0a1628&labelColor=0a1628&logo=databricks&logoColor=93c5fd)
-![Modeling](https://img.shields.io/badge/MODELING-0a1f1c?style=flat-square&color=0a1f1c&labelColor=0a1f1c&logo=elastic&logoColor=5eead4)
-![Big Data](https://img.shields.io/badge/BIG_DATA-1a1200?style=flat-square&color=1a1200&labelColor=1a1200&logo=apache&logoColor=fcd34d)
-![Entrepreneur](https://img.shields.io/badge/ENTREPRENEUR-120a28?style=flat-square&color=120a28&labelColor=120a28&logo=rocket.chat&logoColor=c4b5fd)
-
-&nbsp;
-
-| Role | Specialty |
-|:---:|:---:|
-| **Data Engineer** | **Big Data · ETL · Warehousing** |
+![Hero](./hero.svg)
 
 </div>
 
