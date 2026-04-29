@@ -1,0 +1,139 @@
+<svg width="800" height="280" viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07090f"/>
+      <stop offset="100%" stop-color="#0a0e1a"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#07090f" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#3b82f6" stop-opacity="0.9"/>
+      <stop offset="70%" stop-color="#1d9e75" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#07090f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="topEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#07090f" stop-opacity="0"/>
+      <stop offset="20%"  stop-color="#3b82f6" stop-opacity="0.5"/>
+      <stop offset="50%"  stop-color="#60a5fa" stop-opacity="0.8"/>
+      <stop offset="80%"  stop-color="#3b82f6" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#07090f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="bottomEdge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#07090f" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#1e3a8a" stop-opacity="0.4"/>
+      <stop offset="70%"  stop-color="#0f6e56" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#07090f" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#60a5fa"/>
+      <stop offset="50%"  stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#bfdbfe"/>
+    </linearGradient>
+    <radialGradient id="glowRight" cx="85%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#1e3a8a" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#07090f" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowLeft" cx="15%" cy="80%" r="40%">
+      <stop offset="0%" stop-color="#0f6e56" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#07090f" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="roundedClip">
+      <rect width="800" height="280" rx="14" ry="14"/>
+    </clipPath>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@700&amp;family=JetBrains+Mono:wght@400;600&amp;display=swap');
+    </style>
+  </defs>
+
+  <g clip-path="url(#roundedClip)">
+    <!-- Background -->
+    <rect width="800" height="280" fill="url(#bgGrad)"/>
+    <rect width="800" height="280" fill="url(#glowRight)"/>
+    <rect width="800" height="280" fill="url(#glowLeft)"/>
+
+    <!-- Grid lines vertical -->
+    <g stroke="#3b82f6" stroke-opacity="0.055" stroke-width="0.5">
+      <line x1="40"  y1="0" x2="40"  y2="280"/>
+      <line x1="80"  y1="0" x2="80"  y2="280"/>
+      <line x1="120" y1="0" x2="120" y2="280"/>
+      <line x1="160" y1="0" x2="160" y2="280"/>
+      <line x1="200" y1="0" x2="200" y2="280"/>
+      <line x1="240" y1="0" x2="240" y2="280"/>
+      <line x1="280" y1="0" x2="280" y2="280"/>
+      <line x1="320" y1="0" x2="320" y2="280"/>
+      <line x1="360" y1="0" x2="360" y2="280"/>
+      <line x1="400" y1="0" x2="400" y2="280"/>
+      <line x1="440" y1="0" x2="440" y2="280"/>
+      <line x1="480" y1="0" x2="480" y2="280"/>
+      <line x1="520" y1="0" x2="520" y2="280"/>
+      <line x1="560" y1="0" x2="560" y2="280"/>
+      <line x1="600" y1="0" x2="600" y2="280"/>
+      <line x1="640" y1="0" x2="640" y2="280"/>
+      <line x1="680" y1="0" x2="680" y2="280"/>
+      <line x1="720" y1="0" x2="720" y2="280"/>
+      <line x1="760" y1="0" x2="760" y2="280"/>
+    </g>
+    <!-- Grid lines horizontal -->
+    <g stroke="#3b82f6" stroke-opacity="0.055" stroke-width="0.5">
+      <line x1="0" y1="40"  x2="800" y2="40"/>
+      <line x1="0" y1="80"  x2="800" y2="80"/>
+      <line x1="0" y1="120" x2="800" y2="120"/>
+      <line x1="0" y1="160" x2="800" y2="160"/>
+      <line x1="0" y1="200" x2="800" y2="200"/>
+      <line x1="0" y1="240" x2="800" y2="240"/>
+    </g>
+
+    <!-- Top edge glow -->
+    <rect x="0" y="0" width="800" height="1.5" fill="url(#topEdge)"/>
+
+    <!-- Left accent bar -->
+    <rect x="0" y="0" width="3" height="280" fill="url(#accentLine)"/>
+
+    <!-- filepath -->
+    <circle cx="36" cy="28" r="3" fill="#3b82f6" fill-opacity="0.45"/>
+    <text x="46" y="33" font-family="'JetBrains Mono', monospace" font-size="10" fill="#94a3b8" fill-opacity="0.5" letter-spacing="0.5">mohamedabdalkarem / README.md</text>
+
+    <!-- Name -->
+    <text x="36" y="90" font-family="'Space Grotesk', 'Arial Black', sans-serif" font-size="48" font-weight="700" fill="url(#nameGrad)" letter-spacing="-1">Mohamed Abdelkareem</text>
+
+    <!-- Subtitle -->
+    <text x="36" y="118" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#94a3b8" fill-opacity="0.6" letter-spacing="3">DATA ENGINEER · ENTREPRENEUR</text>
+
+    <!-- Terminal line -->
+    <text x="36" y="155" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#3b82f6" fill-opacity="0.75">&gt;</text>
+    <text x="52" y="155" font-family="'JetBrains Mono', monospace" font-size="13" font-weight="600" fill="#34d399" letter-spacing="0.3">engineering data pipelines_</text>
+
+    <!-- Tags -->
+    <!-- DATA ENGINEERING -->
+    <rect x="36"  y="172" width="138" height="22" rx="5" fill="#0a1628" stroke="#3b82f6" stroke-opacity="0.35" stroke-width="0.5"/>
+    <text x="107" y="187" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#93c5fd" letter-spacing="1" text-anchor="middle">DATA ENGINEERING</text>
+
+    <!-- MODELING -->
+    <rect x="182" y="172" width="86" height="22" rx="5" fill="#0a1f1c" stroke="#14b8a6" stroke-opacity="0.35" stroke-width="0.5"/>
+    <text x="225" y="187" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#5eead4" letter-spacing="1" text-anchor="middle">MODELING</text>
+
+    <!-- BIG DATA -->
+    <rect x="276" y="172" width="80" height="22" rx="5" fill="#1a1200" stroke="#f59e0b" stroke-opacity="0.28" stroke-width="0.5"/>
+    <text x="316" y="187" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#fcd34d" letter-spacing="1" text-anchor="middle">BIG DATA</text>
+
+    <!-- ENTREPRENEUR -->
+    <rect x="364" y="172" width="108" height="22" rx="5" fill="#120a28" stroke="#8b5cf6" stroke-opacity="0.28" stroke-width="0.5"/>
+    <text x="418" y="187" font-family="'JetBrains Mono', monospace" font-size="10" font-weight="600" fill="#c4b5fd" letter-spacing="1" text-anchor="middle">ENTREPRENEUR</text>
+
+    <!-- Bottom strip separator -->
+    <line x1="0" y1="230" x2="800" y2="230" stroke="#3b82f6" stroke-opacity="0.1" stroke-width="0.5"/>
+
+    <!-- Strip: Role -->
+    <text x="36"  y="247" font-family="'Space Grotesk', sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">Data Engineer</text>
+    <text x="36"  y="263" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#94a3b8" fill-opacity="0.4" letter-spacing="1.5">ROLE</text>
+
+    <!-- Strip divider -->
+    <line x1="200" y1="233" x2="200" y2="275" stroke="#3b82f6" stroke-opacity="0.08" stroke-width="0.5"/>
+
+    <!-- Strip: Specialty -->
+    <text x="216" y="247" font-family="'Space Grotesk', sans-serif" font-size="13" font-weight="600" fill="#e2e8f0">Big Data · ETL · Warehousing</text>
+    <text x="216" y="263" font-family="'JetBrains Mono', monospace" font-size="9.5" fill="#94a3b8" fill-opacity="0.4" letter-spacing="1.5">SPECIALTY</text>
+
+    <!-- Bottom edge -->
+    <rect x="0" y="278" width="800" height="2" fill="url(#bottomEdge)"/>
+  </g>
+</svg>
