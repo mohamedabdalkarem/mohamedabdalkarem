@@ -10,12 +10,12 @@
 
 | Category | Tools |
 |---|---|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-E38C28?style=for-the-badge&logo=postgresql&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) |
-| **Big Data** | ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-FBBF24?style=for-the-badge&logo=apachehadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
-| **Engineering** | ![ETL](https://img.shields.io/badge/ETL%2FELT-7C3AED?style=for-the-badge&logoColor=white) ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-6D28D9?style=for-the-badge&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white) |
-| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![HBase](https://img.shields.io/badge/HBase-DC382D?style=for-the-badge&logoColor=white) ![Cassandra](https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white) |
-| **Cloud** | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-%23060810?style=flat-square&logo=python&logoColor=3572a5) ![SQL](https://img.shields.io/badge/SQL-%23060810?style=flat-square&logo=postgresql&logoColor=e38c28) ![Bash](https://img.shields.io/badge/Bash-%23060810?style=flat-square&logo=gnubash&logoColor=64748b) |
+| **Big Data** | ![Spark](https://img.shields.io/badge/Apache_Spark-%23060810?style=flat-square&logo=apachespark&logoColor=e25a1c) ![Hadoop](https://img.shields.io/badge/Hadoop-%23060810?style=flat-square&logo=apachehadoop&logoColor=fbbf24) ![Hive](https://img.shields.io/badge/Hive-%23060810?style=flat-square&logo=apachehive&logoColor=34d399) ![Kafka](https://img.shields.io/badge/Kafka-%23060810?style=flat-square&logo=apachekafka&logoColor=94a3b8) |
+| **DevOps** | ![Docker](https://img.shields.io/badge/Docker-%23060810?style=flat-square&logo=docker&logoColor=60a5fa) ![Git](https://img.shields.io/badge/Git-%23060810?style=flat-square&logo=git&logoColor=f87171) ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23060810?style=flat-square&logo=githubactions&logoColor=64748b) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23060810?style=flat-square&logo=kubernetes&logoColor=22d3ee) |
+| **Engineering** | ![ETL](https://img.shields.io/badge/ETL%2FELT-%23060810?style=flat-square&logoColor=a78bfa) ![Data Warehouse](https://img.shields.io/badge/Data_Warehouse-%23060810?style=flat-square&logoColor=a78bfa) ![Airflow](https://img.shields.io/badge/Airflow-%23060810?style=flat-square&logo=apacheairflow&logoColor=34d399) ![dbt](https://img.shields.io/badge/dbt-%23060810?style=flat-square&logo=dbt&logoColor=34d399) |
+| **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23060810?style=flat-square&logo=postgresql&logoColor=60a5fa) ![MySQL](https://img.shields.io/badge/MySQL-%23060810?style=flat-square&logo=mysql&logoColor=60a5fa) ![HBase](https://img.shields.io/badge/HBase-%23060810?style=flat-square&logoColor=fbbf24) ![Cassandra](https://img.shields.io/badge/Cassandra-%23060810?style=flat-square&logo=apachecassandra&logoColor=f0abfc) ![Redis](https://img.shields.io/badge/Redis-%23060810?style=flat-square&logo=redis&logoColor=f87171) |
+| **Cloud** | ![Snowflake](https://img.shields.io/badge/Snowflake-%23060810?style=flat-square&logo=snowflake&logoColor=22d3ee) ![AWS](https://img.shields.io/badge/AWS-%23060810?style=flat-square&logo=amazonaws&logoColor=fbbf24) |
 
 ---
 
@@ -34,10 +34,10 @@
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-01012390457?style=for-the-badge&logo=whatsapp&logoColor=25d366&labelColor=052010)](https://wa.me/201012390457)
-[![X / Twitter](https://img.shields.io/badge/X-@Mohammed285239?style=for-the-badge&logo=x&logoColor=e7e7e7&labelColor=0a0a10)](https://x.com/Mohammed285239)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--abdalkareem?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0c1e3e)](https://www.linkedin.com/in/mohammed-abdalkareem-26297b236)
-[![Email](https://img.shields.io/badge/Email-mohamedabdalkareem976?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=1a0808)](mailto:mohamedabdalkareem976@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-01012390457-%23060810?style=for-the-badge&logo=whatsapp&logoColor=25d366&labelColor=052010)](https://wa.me/201012390457)
+[![X / Twitter](https://img.shields.io/badge/X-@Mohammed285239-%23060810?style=for-the-badge&logo=x&logoColor=e7e7e7&labelColor=0a0a10)](https://x.com/Mohammed285239)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohammed--abdalkareem-%23060810?style=for-the-badge&logo=linkedin&logoColor=0a66c2&labelColor=0c1e3e)](https://www.linkedin.com/in/mohammed-abdalkareem-26297b236)
+[![Email](https://img.shields.io/badge/Email-mohamedabdalkareem976-%23060810?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=1a0808)](mailto:mohamedabdalkareem976@gmail.com)
 
 </div>
 
