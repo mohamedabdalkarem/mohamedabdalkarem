@@ -12,13 +12,13 @@
 
 ---
 
-🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-```
-location  →  Egypt 🇪🇬
-status    →  Open to work ✅
-education  → Bis
-```
+- 📍 **Location** &nbsp;&nbsp;&nbsp; Egypt 🇪🇬
+- 🎓 **Education** &nbsp; Bachelor of Information Systems (BIS)
+- 💼 **Status** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Open to Work ✅
+
+<br/>
 
 > *"I don't just move data — I architect systems that turn it into decisions driving businesses forward."*
 
